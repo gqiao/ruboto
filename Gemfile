@@ -1,4 +1,4 @@
 source :rubygems
 
-gem 'rake'
+gem 'rake', '>= 12.3.3'
 gem 'main'
